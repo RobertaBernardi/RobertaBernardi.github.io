@@ -9,7 +9,11 @@
 locale                   : "en-US"
 title                    : "Roberta Bernardi"
 title_separator          : "-"
+<<<<<<< HEAD
 name                     : &name "Roberta Bernardi"
+=======
+name                     : &name "Roberta"
+>>>>>>> a57d7c0b38be2c647230e73dd4fa135885394f74
 description              : &description "Welcome to my personal home page! I am a Senior Lecturer in Management at the University of Bristol. I do research on digital health, including health information systems, telehealth, and online health communities. My expertise covers several theories from the social sciences (e.g. institutional, affordance, and identity theories)"
 url                      : https://RobertaBernardi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,6 +86,7 @@ analytics:
 author:
   name             : "Roberta Bernardi"
   avatar           : "Profile_Picture.jpg"
+<<<<<<< HEAD
   bio              : "Senior Lecturer"
   location         : "Bristol"
   employer         : "University of Bristol Business School"
@@ -89,6 +94,15 @@ author:
   googlescholar    : "https://scholar.google.it/citations?user=B73NQoQAAAAJ&hl=en"
   email            : roberta.bernardi@bristol.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Roberta-Bernardi"
+=======
+  bio              : "Senior Lecturer in Management"
+  location         : "Bristol (UK)"
+  employer         : University of Bristol Business School
+  pubmed           : 
+  googlescholar    : "https://scholar.google.it/citations?user=B73NQoQAAAAJ&hl=en"
+  email            : roberta.bernardi@gmail.com
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+>>>>>>> a57d7c0b38be2c647230e73dd4fa135885394f74
   uri              : "https://research-information.bris.ac.uk/en/persons/roberta-bernardi"
   bitbucket        :
   codepen          :
@@ -102,14 +116,23 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+<<<<<<< HEAD
   linkedin         : "https://www.linkedin.com/in/dr-roberta-bernardi-4b522a30/"
   orcid            : "https://orcid.org/0000-0001-9983-2058"
+=======
+  linkedin         : "dr-roberta-bernardi-4b522a30/"
+  orcid            : "http://orcid.org/yourorcidurl"
+>>>>>>> a57d7c0b38be2c647230e73dd4fa135885394f74
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : "@RobyJaxx"
+=======
+  twitter          : "@Robyjaxx"
+>>>>>>> a57d7c0b38be2c647230e73dd4fa135885394f74
   vine             :
   weibo            :
   xing             :
