@@ -8,3 +8,7 @@ paperurl: '/files/PDF/2022-Bernardi-Wu-SSM.pdf'
 link: 'https://doi.org/10.1016/j.socscimed.2022.115494'
 citation: 'Bernardi, Roberta, Wu, Philip Fei (2022). &quot;Online health communities and the patient-doctor relationship: An institutional logics perspective.&quot; <i>Social Science & Medicine</i>. 314(115494). doi.org/10.1016/j.socscimed.2022.115494'
 ---
+
+[Download paper here](/files/PDF/2022-Bernardi-Wu-SSM.pdf)
+
+Recommended citation: Bernardi, Roberta, Wu, Philip Fei (2022). &quot;Online health communities and the patient-doctor relationship: An institutional logics perspective.&quot; <i>Social Science & Medicine</i>. 314(115494). doi.org/10.1016/j.socscimed.2022.115494.
