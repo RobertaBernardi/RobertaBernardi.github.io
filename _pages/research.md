@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Page under construction.
-
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
