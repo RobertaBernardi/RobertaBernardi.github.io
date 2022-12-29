@@ -1,13 +1,14 @@
 ---
+layout: single
 title: "Medical Experts as Social Media Influencers of Networks of Practice in the Fight Against COVID-19"
 collection: research
 order_number: 10
 tags: 
--Covid-19
--Social media
--Medical influencers
--Text analytics
--Machine learning
+- Covid-19
+- Social media
+- Medical influencers
+- Text analytics
+- Machine learning
 ---
 **Investigators:** Bernardi, Roberta (PI), Simpson, Edwin D. (Co-I), Davis, Oliver S. (Co-I)
 **Start/end date:** 31/01/22 - 04/07/2022
