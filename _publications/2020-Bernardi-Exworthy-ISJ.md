@@ -1,5 +1,5 @@
 ---
-title: "Clinical Managers' Identity at the Crossroad of Multiple Institutional Logics in IT Innovation: The Case Study of a Healthcare Organisation in England""
+title: "Clinical Managers' Identity at the Crossroad of Multiple Institutional Logics in IT Innovation: The Case Study of a Healthcare Organisation in England"
 collection: publications
 permalink: /publication/2020-Bernardi-Exworthy-ISJ
 date: 2020-05-01
