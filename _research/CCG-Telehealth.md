@@ -10,7 +10,7 @@ tags:
 - Innovation diffusion
 - Healthcare
 ---
-**Investigators:** Bernardi, Roberta, Exworthy, Mark.
+**Investigators:** Bernardi, Roberta (PI), Exworthy, Mark (Co-I)
 
 **Start/end date:** 06/02/14-05/04/15  
 

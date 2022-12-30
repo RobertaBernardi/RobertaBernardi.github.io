@@ -9,7 +9,7 @@ tags:
 - Patient empowerment
 - Knowledge work
 ---
-**Investigators:** Bernardi, Roberta, Wu, Philip F.
+**Investigators:** Bernardi, Roberta (PI), Wu, Philip F. (Co-I)
 
 **Start/end date:** 17/04/17-15/09/17  
 
