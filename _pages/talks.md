@@ -6,15 +6,15 @@ author_profile: true
 
 My most recent academic talks focus on my current research on patient expertise and the co-production of medical knowledge online. Outside academia, my talks have engaged industry and community stakeholders to think critically about ethics in AI and the impact of digital health on the wellbeing of patients and communities.  
 
-## Industry Talks  
+## Industry and Community Organisations Talks  
 
 *Artificial Intelligence: A Balancing Act Between Business Growth and Fairness*  
 13 July 2022  
 BT "Never Stop Learning" Event (UK)  
 
 *Digital Health*  
-23 November 2021
-Raymond Nicolet Trust [Podcast](https://www.youtube.com/watch?v=bTqXZvDHd3A)  
+23 November 2021  
+Raymond Nicolet Trust [Podcast](https://www.youtube.com/watch?v=bTqXZvDHd3A) (Serbia)
 
 
 
