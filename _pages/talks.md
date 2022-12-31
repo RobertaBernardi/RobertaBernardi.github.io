@@ -9,7 +9,7 @@ My most recent academic talks focus on my current research on patient expertise 
 ## Industry and Community Talks  
 
 **Artificial Intelligence: A Balancing Act Between Business Growth and Fairness**  
-<span style="color:grey">13 July 2022</span>
+<span style="color:grey">13 July 2022</span>  
 BT "Never Stop Learning" Event (UK)  
 
 **Digital Health**  
