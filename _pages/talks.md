@@ -9,7 +9,7 @@ My most recent academic talks focus on my current research on patient expertise 
 ## Industry and Community Talks  
 
 **Artificial Intelligence: A Balancing Act Between Business Growth and Fairness**  
-13 July 2022  
+<span style="color:grey">13 July 2022</span>
 BT "Never Stop Learning" Event (UK)  
 
 **Digital Health**  
@@ -17,7 +17,7 @@ BT "Never Stop Learning" Event (UK)
 Raymond Nicolet Trust [Podcast](https://www.youtube.com/watch?v=bTqXZvDHd3A) (Serbia)
 
 **Fairness in Algorithmic Decision Making**  
-19 May 2021
+19 May 2021  
 Lloyd Banking Group (UK)  
 
 The talk focuses on bias, fairness, accountability, and privacy in automated decision making and recommendation systems based on industry examples in insurance, finance, and healthcare.  
