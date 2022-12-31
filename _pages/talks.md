@@ -12,7 +12,7 @@ My most recent academic talks focus on my current research on patient expertise 
 <span style="color:grey">27 October 2021</span>  
 Henley Business School, University of Reading (UK)  
 
-In this talk, I explore the role of emotions in influencing how users of a diabetes online community deal with controversy surrounding unconvential clinical advice. While learning in online health communities has often been viewed as an intellectual process, a major contribution of this research is to illuminate the role of emotions in epistemic enquiry.  
+In this talk, I explore the role of emotions in influencing how users of a diabetes online community deal with the controversy surrounding unconvential clinical advice. While learning in online health communities has often been viewed as an intellectual process, a major contribution of this research is to illuminate the role of emotions in epistemic enquiry.  
 
 **Digital Health and Social Justice**  
 <span style="color:grey">22 September 2021</span>  
@@ -30,7 +30,7 @@ The talk presents preliminary findings about the epistemic practices of a diabet
 <span style="color:grey">26 April 2017</span>  
 With Philip F. Wu (Royal Holloway, University of London), University of Hertfordshire (UK)  
 
-The talk explores the implications of online health communities for patient empowerment and self-management.  
+The talk explores the implications of online health communities for patient empowerment and health self-management.  
 
 ## Industry and Community Talks  
 
