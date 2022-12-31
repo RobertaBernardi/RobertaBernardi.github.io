@@ -15,3 +15,12 @@ BT "Never Stop Learning" Event (UK)
 *Digital Health*  
 23 November 2021  
 Raymond Nicolet Trust [Podcast](https://www.youtube.com/watch?v=bTqXZvDHd3A) (Serbia)
+
+*Fairness in Algorithmic Decision Making*  
+19 May 2021
+Lloyd Banking Group (UK)  
+
+The talk focuses on bias, fairness, accountability, and privacy in automated decision making and recommendation systems based on industry examples in insurance, finance, and healthcare.  
+
+
+
