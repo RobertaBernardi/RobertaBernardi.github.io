@@ -8,7 +8,7 @@ My most recent academic talks focus on my current research on patient expertise 
 
 ## Academic Talks  
 
-**The Role of Emotions in the Epistemic Enquiry of Users of an Online Health Community**
+**The Role of Emotions in the Epistemic Enquiry of Users of an Online Health Community**  
 <span style="color:grey">27 October 2021</span>  
 Henley Business School, University of Reading (UK)  
 
@@ -27,7 +27,7 @@ The talk provides a critique of the implications of latest developments in digit
 The talk presents preliminary findings about the epistemic practices of a diabetes online community. Whilst community members are motivated and capable of enacting virtuous epistemic practices, the talk also discusses the ambivalence of apparently virtuous epistemic practices of a diabetes online community, which could have unintended consequences and conceal epistemic vices.  
 
 **The Role of Online Health Communities in Patient-Centred Care**  
-<span style="color:grey">26 April 2017</span>
+<span style="color:grey">26 April 2017</span>  
 With Philip F. Wu (Royal Holloway, University of London), University of Hertfordshire (UK)  
 
 The talk explores the implications of online health communities for patient empowerment and self-management.  
