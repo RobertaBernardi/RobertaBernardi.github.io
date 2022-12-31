@@ -6,7 +6,7 @@ author_profile: true
 
 My most recent academic talks focus on my current research on patient expertise and the co-production of medical knowledge online. Outside academia, my talks have engaged industry and community stakeholders to think critically about ethics in AI and the impact of digital health on the wellbeing of patients and communities.  
 
-##Industry Talks  
+## Industry Talks  
 
 *Artificial Intelligence: A Balancing Act Between Business Growth and Fairness*  
 13 July 2022  
