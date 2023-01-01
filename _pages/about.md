@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Welcome!  
+
 I am a Senior Lecturer in Management and Programme Director of the MSc in Business Analytics at the University of Bristol Business School. I earned my PhD from the University of Warwick in 2012 and have more than 10 years of experience researching digital innovation in healthcare.  
 
 I have done research on the diffusion and adoption of health information systems and telehealth from various theoretical perspectives, including institutional theory, affordances, identity theory, and the sociology of professions. My recent work focuses on the impact of online health communities and social media on medical expertise, medical knowledge, and healthcare innovation. I am an experienced qualitative researcher and am currently working on combining text analytics with human interpretations of texts to advance the analytical as well as interpretative power of narrative methodologies in the analysis of social media conversations.  
