@@ -3,7 +3,6 @@ title: 'Are Internet-informed Patients a Threat to the Patient-Doctor Relationsh
 date: 2023-01-01
 permalink: /posts/2023/01/internet-informed-patients-doctor-relationship/
 tags:
-  - Internet
   - Online health communities
   - Internet health information
   - Patient-doctor relationship
