@@ -5,7 +5,7 @@ permalink: /posts/2023/01/internet-informed-patients-doctor-relationship/
 tags:
   - Internet
   - Online health communities
-  - Online health information
+  - Internet health information
   - Patient-doctor relationship
 ---
 
