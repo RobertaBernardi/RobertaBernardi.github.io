@@ -54,18 +54,20 @@
     {% endif %}
     
       <!-- citation and icon code -->
-      <p>
-    {% if post.citation %}
-    {{ post.citation }}
-    {% endif %}
-    <br>
-    {%if post.link %}
-    <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}
+      {% if post.collection == 'publications' %}
+        <p>
+        {% if post.citation %}
+        {{ post.citation }}
+        {% endif %}
+        <br>
+        {%if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+        {% endif %}
+        {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      </p>
+        {% endif %}
+        </p>
+        {% endif %}
       
   </article>
 </div>
