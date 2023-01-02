@@ -1,5 +1,5 @@
 ---
-title: 'Internet-informed Patients can enjoy greater treatment choice without spoiling the relationship with their doctor'
+title: 'Internet-informed Patients Can Enjoy Greater Treatment Choice Without Spoiling the Relationship With Their Doctor'
 date: 2023-01-01
 permalink: /posts/2023/01/internet-informed-patients-doctor-relationship/
 tags:
